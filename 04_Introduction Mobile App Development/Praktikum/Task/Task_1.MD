@@ -4,7 +4,7 @@ Kumpulkan 5 bahasa pemrograman untuk membuat aplikasi mobile! sertakan platform 
 
 ## 1. Java
 
-<img src="Screenshots/java.png" width="700">
+<img src="04_Introduction Mobile App Development/Screenshots/java.png" width="700">
 
 Beberapa tahun lalu tepatnya bulan Juni 2017 bahasa pemrograman Java telah menjadi bahasa pemrograman paling populer (data Tiobex Index). Namun sekarang sudah disalip oleh bahasa pemrograman JavaScript dan Phyton.
 
@@ -19,7 +19,7 @@ Untuk pemula yang baru ingin belajar membuat aplikasi android disarankan menggun
 
 ## 2. C++
 
-<img src="Screenshots/c++.png" width="700">
+<img src="04_Introduction Mobile App Development/Screenshots/c++.png" width="700">
 
 Sebelum bahasa pemrograman kotlin diresmikan oleh Google menjadi salah satu bahasa pemrograman yang didukung penuh untuk membuat aplikasi android, bahasa pemrograman C++ sudah lebih dulu setelah Java.
 
@@ -29,7 +29,7 @@ Lagi-lagi kita bisa menggunakan IDE Android Studio untuk mengembangkan aplikasi 
 
 ## 3. Kotlin
 
-<img src="Screenshots/kotlin.png" width="700">
+<img src="04_Introduction Mobile App Development/Screenshots/kotlin.png" width="700">
 
 Kotlin baru mendapatkan dukungan dari google sebagai salah satu bahasa pemrograman resmi untuk membuat aplikasi android.
 
@@ -49,7 +49,7 @@ Pembuatan aplikasi android menggunakan saat ini bisa menggunakan IDE :
 
 ## 4. Dart
 
-<img src="Screenshots/dart.png" width="700">
+<img src="04_Introduction Mobile App Development/Screenshots/dart.png" width="700">
 
 Bahasa pemrograman Dart dikembangkan oleh perusahaan raksasa nomor 1 di dunia yaitu Google. Selain Dart , google juga telah mengembangkanGolang dan bahasa pemrograman lainnya.
 
@@ -59,7 +59,7 @@ Untuk mengembangkan aplikasi android menggunakan bahasa pemrograman Dart kita ha
 
 ## 5. Kotlin
 
-<img src="Screenshots/kotlin.png" width="700">
+<img src="04_Introduction Mobile App Development/Screenshots/kotlin.png" width="700">
 
 Bahasa pemrograman lain yang bisa kita gunakan untuk membuat aplikasi android yaitu bahasa pemrograman C# (C Sharp). Jika kamu sudah memiliki dasar pemrograman C#, maka kamu tidak akan menemukan kesulitan yang berarti saat belajar membuat aplikasi android menggunakan bahasa pemrograman C#.
 
